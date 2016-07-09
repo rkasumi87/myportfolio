@@ -1,0 +1,159 @@
+.background {
+	background-image: url(http://www.thegoodshoppingguide.com/wp-content/uploads/2013/03/paint.jpg);
+	background-size: cover;
+	background-repeat:no-repeat;
+	height: 96vh;
+	margin: none;
+	opacity: 0.75;
+    filter: alpha;
+    margin-top: none;
+    padding-right:none;
+    z-index: 0
+}
+h1 {
+	display: table-cell;
+    vertical-align: middle;
+    text-align:center;
+    color: white;
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    letter-spacing: 29px;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 500%;
+    opacity: 10;
+    margin: none;
+}
+.title {
+	position:absolute; height:100%; width:100%;
+    display: table;
+    margin: none;
+}
+
+.list {
+	margin: 0px;
+	padding-left: 0px;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+	word-spacing: 70px;
+	z-index: 2;
+}
+li {
+	display: inline-block;
+	opacity: 10;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-right: none;
+}
+body {
+	margin: none;
+	padding: none;
+}
+a {
+	text-decoration: none;
+	color: gray;
+	 margin-right: none;
+	 width: 90%;
+}
+a:hover {
+	color: black;
+	font-size: 40px;
+}
+p {
+	font-size: 20px;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  background-color: #ffffff;
+  width: 100%;
+  font-size: 10px
+  color: gray;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.footerr {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: right;
+  background-color: none;
+  font-size: 10px
+  color: gray;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.footerl {
+	position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: left;
+  background-color: none;
+  font-size: 10px
+  color: gray;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.img1 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img2 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img3 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img4 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.galrow1 {
+	text-align: center;
+	word-spacing: 30px;
+}
+.img5 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img6 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img7 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
+.img8 {
+	filter: alpha;
+	opacity: 0.9;
+	box-shadow: 3px 3px 3px #000000;
+}
