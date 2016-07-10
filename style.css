@@ -169,10 +169,12 @@ p {
 	background: rgba(0, 0, 0, 0.3);
 	color: white;
 	position: relative;
-	left: 100px;
+	left: 150px;
 	padding: 40px;
 	top: 70px;
 	float: left;
+	line-height: 25px;
+	text-align: justify;
 }
 .text2 {
 	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
@@ -185,6 +187,8 @@ p {
 	position: relative;
 	padding: 40px;
 	float: right;
-	right: 100px;
+	right: 150px;
 	top: 70px;
+	line-height: 25px;
+	text-align: justify; 
 }
