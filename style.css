@@ -76,7 +76,7 @@ p {
   font-size: 10px
   color: gray;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  letter-spacing: 10px;
+  letter-spacing: 7px;
   text-transform: uppercase;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -92,7 +92,7 @@ p {
   font-size: 10px
   color: gray;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  letter-spacing: 10px;
+  letter-spacing: 7px;
   text-transform: uppercase;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -108,7 +108,7 @@ p {
   font-size: 10px
   color: gray;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  letter-spacing: 10px;
+  letter-spacing: 7px;
   text-transform: uppercase;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -160,10 +160,14 @@ p {
 .h20 {
 	word-spacing: 70px;
 }
-.desc {
-	padding-top: 100px;
-	padding: 0 auto;
-	text-align: center;
-	margin: 0 auto;
+.text {
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	letter-spacing: 0px;
 	width: 500px;
+	
+	font-weight: 100;
+	color: rgba(0, 0, 0, 1);
+	background: rgba(0, 0, 0, 0.3);
+	color: white;
+
 }
